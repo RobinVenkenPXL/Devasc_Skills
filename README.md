@@ -53,3 +53,17 @@ authentication token was expired: nieuwe token gaan ophalen
 
 Taakverificatie: 
 ![image](https://user-images.githubusercontent.com/43812441/163956956-2982ea92-a7ff-425b-a913-4a93153542e3.png)
+
+Taaknaam: 
+Data Format Conversion
+
+Taakvoorbereiding en Taakimplementatie: 
+begrijpen wat de verschillende datatypes zijn.
+
+hoe heb je dit geïmplementeerd?: converteren van de datatypes.
+
+Taak oplossen van problemen: script aanpassen zodat alle datatypes en prints juist zijn.
+
+Taakverificatie: 
+![image](https://user-images.githubusercontent.com/43812441/163982703-90aaf2e5-c1dd-47fb-be3f-8e7f85881a20.png)
+
