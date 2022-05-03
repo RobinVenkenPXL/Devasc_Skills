@@ -48,14 +48,14 @@
 
 ## taaknaam: Taak 4: Webex Team API
 
-Taakvoorbereiding en Taakimplementatie: 
-basiskennis van de webex team API
+* Taakvoorbereiding en Taakimplementatie: 
+ * basiskennis van de webex team API
 
-hoe heb je dit geïmplementeerd? : 
-gebruik maken van de verschillende scripts
+* hoe heb je dit geïmplementeerd? : 
+ * gebruik maken van de verschillende scripts
 
-Taak oplossen van problemen? : 
-authentication token was expired: nieuwe token gaan ophalen
+* Taak oplossen van problemen? : 
+  * authentication token was expired: nieuwe token gaan ophalen
 
 * Taakverificatie: 
   * runnen van de webex scripts
