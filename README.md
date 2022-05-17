@@ -74,3 +74,37 @@
 * Taakverificatie: 
   * runnen van het conversion script.
 
+## Taaknaam: Task 7 : Network documentation
+
+* Taakvoorbereiding en Taakimplementatie: 
+  * teken programma vinden
+  * ip en subnet berekenen
+  
+* hoe heb je dit geïmplementeerd?: 
+  * maken van ip plan
+  * maken van netwerk tekening
+  * maken van vlans
+  * name convention opgezet
+
+* Taak oplossen van problemen: 
+  * goede name convention vinden
+  * taken verdelen ging moeilijk
+
+* Taakverificatie
+  * uploaden van ip plan, vlans, netwerktekening en name convention
+
+## Taaknaam: Task 8 : Netmiko
+
+* Taakvoorbereiding en Taakimplementatie: 
+  * netmiko basis kennis van de les
+  
+* hoe heb je dit geïmplementeerd?: 
+  * script maken die een loopback interface maakt
+  * interface output laten zien
+
+* Taak oplossen van problemen: 
+  * werkte niet via de devasc vm: lokaal op pc python downloaden en netmiko
+
+* Taakverificatie
+  * script runnen en output screenshot toegevoegd
+
